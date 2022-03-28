@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshitk-060
+- 👋 Hi, I’m Harshit Khandelwal
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Data Structures and Python
 - 💞️ I’m looking to collaborate on C++ projects.
