@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit Khandelwal
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Data Structures and Python
+- 👀 I’m interested in machine learning and cloud computing
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on C++ projects.
 
 <!---
