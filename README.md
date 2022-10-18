@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit Khandelwal
 - 👀 I’m interested in machine learning and cloud computing
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on C++ projects.
+- 💞️ I’m looking to collaborate on C++/Python/SQL projects.
 
 <!---
 harshitk-060/harshitk-060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
