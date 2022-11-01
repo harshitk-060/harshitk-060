@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/github.webp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/vscode.webp" width="40" height="40"/></p>
-[![@harshit_k10's Holopin board](https://holopin.me/harshit_k10)](https://holopin.io/@harshit_k10)
+  <img src="[![@harshit_k10's Holopin board](https://holopin.me/harshit_k10)](https://holopin.io/@harshit_k10)"/>
