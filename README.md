@@ -1,6 +1,6 @@
 - 👋 Hello folks, I’m Harshit Khandelwal
-- 👀 I’m interested in machine learning and cloud computing.
-- 🌱 I’m currently learning data analytics.
+- 👀 Cloud Facilitator of Google CLoud Career Practitioner Campaign 2022-23
+- 🌱 I’m currently working on data analysis and ML.
 - 💞️ I’m looking to collaborate on C++/Python/SQL projects.
 
 <!---
