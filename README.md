@@ -1,7 +1,7 @@
 - 👋 Hello folks, I’m Harshit Khandelwal
-- 👀 Cloud Facilitator of Google CLoud Career Practitioner Campaign 2022-23
-- 🌱 I’m currently working on data analysis and ML.
-- 💞️ I’m looking to collaborate on C++/Python/SQL projects.
+- 👀 Former Cloud Lead a Google Developer Student Club , School of Data Science and Forecasting, DAVV , Indore
+- 🌱 AI/ML enthusiast with a keen interest in GEN AI.
+- 💞️ I’m looking for an internship/job in the same domain.
 
 <!---
 harshitk-060/harshitk-060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
