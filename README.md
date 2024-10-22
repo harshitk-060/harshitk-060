@@ -1,7 +1,7 @@
 - 👋 Hello folks, I’m Harshit Khandelwal
 - 👀 Former Cloud Lead a Google Developer Student Club , School of Data Science and Forecasting, DAVV , Indore
 - 🌱 AI/ML enthusiast with a keen interest in GEN AI.
-- 💞️ I’m looking for an internship/job in the same domain.
+- 💞️ I’m looking for an job in the same domain.
 
 <!---
 harshitk-060/harshitk-060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
